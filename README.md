@@ -9,8 +9,8 @@ Beautiful icons for VSCode based on macOS Big Sur design.
 
 ## 🎨 Download Icons
 
-- [ Light ](https://github.com/Hessabra/PokIcone/blob/master/VscodeBack/dragonaire-vscode-white.icns)
-- [ No Background ](https://github.com/Hessabra/PokIcone/blob/master/VscodeNoBack/dragonaire-vscode.icns)
+- [ Light ](https://github.com/Hessabra/PokIcone/blob/master/VscodeBack/dragonair-vscode-white.icns)
+- [ No Background ](https://github.com/Hessabra/PokIcone/blob/master/VscodeNoBack/dragonair-vscode.icns)
 
 ## 💡 Usage (only for macOS)
 
