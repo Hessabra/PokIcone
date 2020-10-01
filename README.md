@@ -5,7 +5,6 @@ Beautiful icons for MacOS users and Pokemon lovers.
 ![Preview](preview.png)
 
 ![License](https://img.shields.io/github/license/hessabra/PokIcone?style=flat-square)
-![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)
 
 ## 🎨 Download Icons
 
