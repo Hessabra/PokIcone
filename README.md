@@ -1,4 +1,4 @@
-# ⛰️ POKICONE - VSCode Pokemon Icon
+# ⛰️ POKICONE - VSCode and Iterm Pokemon Icon
 
 Beautiful icons for MacOS users and Pokemon lovers.
 
